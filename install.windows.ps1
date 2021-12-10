@@ -9,7 +9,7 @@ iwr -useb https://raw.githubusercontent.com/JayBazuzi/machine-setup/main/windows
 
 choco install mingw
 choco install lua
-choco install luarocks
+choco install luarocks --params="'/MW'" 
 
 
 # Clone repo

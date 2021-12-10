@@ -13,7 +13,7 @@ choco install luarocks --params="'/MW'"
 
 
 # Clone repo
-& "C:\Program Files\Git\cmd\git.exe" clone https://raw.githubusercontent.com/LearnWithLlew/lua.starterproject.get C:\Code\lua.starterproject
+& "C:\Program Files\Git\cmd\git.exe" clone https://github.com/LearnWithLlew/lua.starterproject.git C:\Code\lua.starterproject
 cd C:\Code\lua.starterproject
 
 # run

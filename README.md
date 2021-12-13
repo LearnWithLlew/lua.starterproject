@@ -5,6 +5,9 @@
 
 run the   
 `install.windows.ps1`
+### To Do:
+We have not been able to get this working on a windows machine. we need to either install `cl` or configure luarocks to use Mingw.
+It does work in CI (linux)
 
 ## Running tests
 

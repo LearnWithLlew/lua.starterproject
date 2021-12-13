@@ -20,5 +20,5 @@ jobs:
         luarocks install busted
 
     - name: test
-      run: |
-        busted -o utfTerminal
+      run: ./run_tests.sh
+        

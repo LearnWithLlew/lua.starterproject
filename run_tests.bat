@@ -1,1 +1,1 @@
-busted
+busted -o utfTerminal
